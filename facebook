@@ -21,7 +21,9 @@ public class Main{
         }
         else if (computer==1 && user==1){
             System.out.println("its draw");
+
+        System.out.println("hello");
         }
     }
 }
-hellllo user
+
